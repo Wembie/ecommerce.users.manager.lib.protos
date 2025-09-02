@@ -33,10 +33,10 @@ setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
-        "Development Status :: 3 - Alpha",
+        "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
         "Topic :: Software Development :: Libraries",
     ],
     python_requires=">=3.8",
-    #url="https://github.com/Wembie/ecommerce-microservices",
+    url="https://github.com/Wembie/ecommerce.users.manager.lib.protos",
 )
