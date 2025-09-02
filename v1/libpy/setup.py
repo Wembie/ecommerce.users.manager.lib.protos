@@ -38,5 +38,5 @@ setup(
         "Topic :: Software Development :: Libraries",
     ],
     python_requires=">=3.8",
-    url="https://github.com/Wembie/ecommerce.users.manager.lib.protos",
+    #url="https://github.com/Wembie/ecommerce.users.manager.lib.protos",
 )
