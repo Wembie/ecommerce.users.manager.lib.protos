@@ -2,6 +2,9 @@
 
 User management service with gRPC and Protocol Buffers that provides authentication and user administration functionalities.
 
+## Version
+- 1.0.0
+
 ## Features
 
 - User CRUD operations (create, read, update, delete)
